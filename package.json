@@ -1,0 +1,16 @@
+{
+  "name": "bella-font-inventory",
+  "version": "1.0.0",
+  "description": "Sistema de inventario para manejar productos y rutas de la embotelladora Bella-Font, Jucuapa.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Inventario",
+    "Bella-font",
+    "Ruta"
+  ],
+  "author": "Adriel Benjamín Martinez, Jose Virgilio Lopez, Oscar Mejía",
+  "license": "MIT"
+}
